@@ -2,6 +2,7 @@
 
 Tejveer Singh 11010863
 
+Youtube Link :- https://www.youtube.com/watch?v=5byFjeIOiRI&feature=youtu.be
 
 Description:
 Intention of  building this application is to provide a platform where people can easily split their expenditures which they did with their friends . As an example: two friends went for outing somewhere and they paid randomly without having calculation of who paid what,  and in the end of trip one of them has created EASYSHARE  put all expenses He / She had made while on trip and added his friend on EASYSHARE with whom they were on trip to distribute all expenses equally.
